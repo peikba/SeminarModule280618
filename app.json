@@ -1,0 +1,26 @@
+{
+  "id": "5ed68b65-0720-42e1-bb44-638623c932f6",
+  "name": "Seminar Module",
+  "publisher": "D. E. Veloper",
+  "brief": "Module for managing Seminars",
+  "description": "Module for managing Seminars",
+  "version": "1.0.0.0",
+  "compatibilityId": "1.0.0.0",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "capabilities": [],
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "11.0.0.0",
+  "application": "11.0.0.0",
+  "features": "TranslationFile",
+  "showMyCode": true,
+  "target": "Internal",
+  "idRange": {
+    "from": 123456700,
+    "to": 123456799
+  }
+}
