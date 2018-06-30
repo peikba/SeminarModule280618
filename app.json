@@ -17,7 +17,7 @@
   "platform": "11.0.0.0",
   "application": "11.0.0.0",
   "features": "TranslationFile",
-  "showMyCode": true,
+  "showMyCode": false,
   "target": "Internal",
   "idRange": {
     "from": 123456700,

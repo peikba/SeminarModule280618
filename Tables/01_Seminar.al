@@ -42,7 +42,7 @@ table 123456701 "CSD Seminar"
         {
             Caption = 'Maximum Participants';
         }
-        field(60; "Search Name"; Text[50])
+        field(60; "Search Name"; Code[50])
         {
             Caption = 'Search Name';
         }
